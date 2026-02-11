@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # こんにちは！👋
 
-私は1年生専門学生です。
+私は専門学校の1年生です。
 
 暇な時は：
 - ゲームをしたり🎮
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 よろしくお願いいたします。✨
 
 ## プロジェクト
-- [MyJavaProject](https://github.com/paipyepyo/MyJavaProject) – Current Project
+- [MyJavaProject](https://github.com/paipyepyo/MyJavaProject) – 現在プロジェクト
