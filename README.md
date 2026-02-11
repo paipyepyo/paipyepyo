@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# こんにちは！👋
+
+私は専門学生です。
+
+暇な時は：
+- ゲーム 🎮
+- 日本語 📖
+- プログラム 💻
+
+よろしくお願いいたします。✨
+
+## プロジェクト
+- [Project](https://github.com/paipyepyo/MyJavaProject) – Java calculator
