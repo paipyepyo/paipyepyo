@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+
+<!-- ## Hi there 👋
 **paipyepyo/paipyepyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 -->
 # こんにちは！👋
 
-私は専門学生です。
+私は1年生専門学生です。
 
 暇な時は：
-- ゲーム 🎮
-- 日本語 📖
-- プログラム 💻
+- ゲームをしたり🎮
+- 日本語を勉強したり 📖
+- プログラムを学んだり 💻
+
+しています。　　
 
 よろしくお願いいたします。✨
 
