@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 よろしくお願いいたします。✨
 
 ## プロジェクト
-- [Project](https://github.com/paipyepyo/MyJavaProject) – Java calculator
+- [MyJavaProject](https://github.com/paipyepyo/MyJavaProject) – Current Project
