@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # こんにちは！👋
 
-私は専門学校の1年生です。
+私は専門学校の2年生です。
 
 暇な時は：
 - ゲームをしたり🎮
